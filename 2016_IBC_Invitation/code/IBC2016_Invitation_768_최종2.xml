@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gui version="4.1.3" name="IBC2016_Invitation_768_최종2.psd" username="wjchoi" engineVersion="4.5.6" photoshopVersion="16.1.2" w="768" h="1670" useTextBaseline="true">
+  <set name="bt" opacity="100">
+    <text name="Schedule a Meeting" color="#FFFFFF" font="Roboto-Bold" size="13 px" leading="0" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.CENTER" x="386" y="883" w="135" h="11" layerX="318" layerY="873">Schedule a Meeting</text>
+    <rectangle color="#DD1136" x="299" y="862" w="170" h="33"/>
+  </set>
+  <image x="0" y="323" w="768" h="539" format="png" colors="24 bit" file="contents_01.png" name="*contents_01"/>
+  <image x="0" y="0" w="768" h="323" format="png" colors="24 bit" file="top_image.png" name="*top_image"/>
+  <set name="Group 24" opacity="100">
+    <text name="Contact Us" color="#31383E" font="Verdana" size="9 px" leading="0" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="82" y="1564" w="55" h="7" layerX="83" layerY="1557">Contact Us</text>
+    <text name="+82 2 2007 7700" color="#31383E" font="Verdana" size="10 px" leading="0" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="82" y="1526" w="95" h="7" layerX="83" layerY="1519">+82 2 2007 7700</text>
+    <text name="Seoul S. Korea" color="#DE1237" font="Verdana" size="12 px" leading="14" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="82" y="1492" w="49" h="24" layerX="83" layerY="1482">Seoul S.
+Korea</text>
+    <text name="Contact Us" color="#31383E" font="Verdana" size="9 px" leading="0" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="524" y="1564" w="55" h="7" layerX="525" layerY="1557">Contact Us</text>
+    <text name="+84 4 3256 5171" color="#31383E" font="Verdana" size="10 px" leading="0" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="524" y="1526" w="95" h="7" layerX="525" layerY="1519">+84 4 3256 5171</text>
+    <text name="Hanoi, Vietnam" color="#DE1237" font="Verdana" size="12 px" leading="14" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="524" y="1492" w="50" h="24" layerX="524" layerY="1482">Hanoi,
+Vietnam</text>
+    <text name="Contact Us" color="#31383E" font="Verdana" size="9 px" leading="0" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="360" y="1564" w="55" h="7" layerX="361" layerY="1557">Contact Us</text>
+    <text name="+31(0)20 240 31 90" color="#31383E" font="Verdana" size="10 px" leading="0" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="360" y="1526" w="112" h="10" layerX="361" layerY="1518">+31(0)20 240 31 90</text>
+    <text name="Amsterdam, Netherlands" color="#DE1237" font="Verdana" size="12 px" leading="14" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="360" y="1492" w="76" h="24" layerX="360" layerY="1482">Amsterdam,
+Netherlands</text>
+    <text name="Contact Us" color="#31383E" font="Verdana" size="9 px" leading="0" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="221" y="1564" w="55" h="7" layerX="222" layerY="1557">Contact Us</text>
+    <text name="+1 720 887 1700" color="#31383E" font="Verdana" size="10 px" leading="0" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="221" y="1526" w="95" h="7" layerX="222" layerY="1519">+1 720 887 1700</text>
+    <text name="Denver, Colorado" color="#DE1237" font="Verdana" size="12 px" leading="14" tracking="0" trackingPixel="0" letterSpace="0" align="Justification.LEFT" x="221" y="1492" w="55" h="23" layerX="222" layerY="1483">Denver,
+Colorado</text>
+  </set>
+  <set name="Group 12" opacity="100">
+    <image x="80" y="1606" w="32" h="32" format="png" colors="24 bit" file="icon_blog.png" name="*icon_blog"/>
+    <image x="125" y="1606" w="32" h="32" format="png" colors="24 bit" file="icon_facebook.png" name="*icon_facebook"/>
+    <image x="170" y="1606" w="32" h="32" format="png" colors="24 bit" file="icon_twitter.png" name="*icon_twitter"/>
+    <image x="215" y="1606" w="32" h="32" format="png" colors="24 bit" file="icon_youtube.png" name="*icon_youtube"/>
+  </set>
+  <rectangle color="#E9E9E9" x="0" y="1504" w="768" h="166"/>
+  <image x="0" y="1375" w="768" h="108" format="png" colors="24 bit" file="contact.png" name="*contact"/>
+  <image x="0" y="895" w="768" h="480" format="png" colors="24 bit" file="contents_02.png" name="*contents_02"/>
+  <rectangle color="#FFFFFF" x="0" y="0" w="768" h="1670"/>
+</gui>
